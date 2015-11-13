@@ -1,0 +1,37 @@
+.navbar-default {
+    background-color: #d96036;
+}
+
+header {
+    background: #dac3a1;
+}
+
+section {
+   /* background: #e3e4f7; */
+   background: #dac3a1;
+}
+
+section.success {
+    color: #fff;
+    /* background: #49e0b1; */
+    background: #f78e3c;
+}
+
+header hr.star-primary {
+    border-color: #fff;
+}
+
+header hr.star-primary:after {
+    color: #fff;
+    background-color: #dac3a1;
+}
+
+hr.star-primary:after {
+    color: #2c3e50;
+    background-color: #dac3a1;
+}
+
+hr.star-light:after {
+    color: #fff;
+    background-color: #f78e3c;
+}
