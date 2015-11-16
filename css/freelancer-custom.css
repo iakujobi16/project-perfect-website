@@ -9,20 +9,20 @@
   background-color: #4B92CE;
 }
 
-/*
-#portfolioModal1 .modal-body {
-    position: absolute;
+
+#portfolioModal1 .modal-content .modal-body {
+    position: relative;
 }
 
-#portfolioModal1 .modal-body iframe {
+#portfolioModal1 .modal-content .modal-body iframe {
             display:block;
-            position: absolute;
+            position: relative;
             top: 0px;
             left: 50%;
             margin-left: -512px;
             height: 500px;
 }
-*/
+
 
 header {
     background: #A3DEEF;
@@ -59,6 +59,11 @@ hr.star-light:after {
     background-color: #1455AB;
 }
 
+<<<<<<< HEAD
 footer.footer-below {
     background-color: #1455AB;
+=======
+footer .footer-below {
+    background-color: #0052ff;
+>>>>>>> 3da4946b623f2938bf456f728f519099d4619ced
 }
