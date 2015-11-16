@@ -41,29 +41,37 @@ section.success {
 
 header hr.star-primary {
     border-color: #fff;
-    background-color: #1455AB;
+    background-color: #A3DEEF;
 }
 
 header hr.star-primary:after {
     color: #fff;
-    background-color: #1455AB;
+    background-color: #A3DEEF;
 }
 
 hr.star-primary:after {
     color: #fff;
-    background-color: #1455AB;
+    background-color: #4FB3DA;
 }
 
 hr.star-light:after {
     color: #fff;
-    background-color: #1455AB;
+    background-color: #4FB3DA;
 }
 
-<<<<<<< HEAD
-footer.footer-below {
-    background-color: #1455AB;
-=======
+.modal-body hr.star-primary {
+    border-color: #2C3E50;
+}
+
+.modal-body hr.star-primary:after {
+    color: #2c3e50;;
+    background-color: #fff;
+}
+
+footer {
+    margin: 0px;
+}
+
 footer .footer-below {
-    background-color: #0052ff;
->>>>>>> 3da4946b623f2938bf456f728f519099d4619ced
+    background-color: #4B92CE;
 }
