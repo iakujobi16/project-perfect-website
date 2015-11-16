@@ -9,20 +9,20 @@
   background-color: #0052ff;
 }
 
-/*
-#portfolioModal1 .modal-body {
-    position: absolute;
+
+#portfolioModal1 .modal-content .modal-body {
+    position: relative;
 }
 
-#portfolioModal1 .modal-body iframe {
+#portfolioModal1 .modal-content .modal-body iframe {
             display:block;
-            position: absolute;
+            position: relative;
             top: 0px;
             left: 50%;
             margin-left: -512px;
             height: 500px;
 }
-*/
+
 
 header {
     background: #00bea6;
@@ -58,6 +58,6 @@ hr.star-light:after {
     background-color: #0f8c8a;
 }
 
-footer.footer-below {
-    background-color: #0460ff;
+footer .footer-below {
+    background-color: #0052ff;
 }
