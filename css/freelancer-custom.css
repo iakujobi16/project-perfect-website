@@ -1,6 +1,28 @@
 .navbar-default {
-    background-color: #1044d0;
+    background-color: #078f92;
 }
+
+.navbar-default .navbar-nav > .active > a,
+.navbar-default .navbar-nav > .active > a:hover,
+.navbar-default .navbar-nav > .active > a:focus {
+  color: #ffffff;
+  background-color: #0052ff;
+}
+
+/*
+#portfolioModal1 .modal-body {
+    position: absolute;
+}
+
+#portfolioModal1 .modal-body iframe {
+            display:block;
+            position: absolute;
+            top: 0px;
+            left: 50%;
+            margin-left: -512px;
+            height: 500px;
+}
+*/
 
 header {
     background: #00bea6;
@@ -34,4 +56,8 @@ hr.star-primary:after {
 hr.star-light:after {
     color: #fff;
     background-color: #0f8c8a;
+}
+
+footer.footer-below {
+    background-color: #0460ff;
 }
