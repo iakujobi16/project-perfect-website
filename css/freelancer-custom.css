@@ -1,12 +1,12 @@
 .navbar-default {
-    background-color: #078f92;
+    background-color: #1455AB;
 }
 
 .navbar-default .navbar-nav > .active > a,
 .navbar-default .navbar-nav > .active > a:hover,
 .navbar-default .navbar-nav > .active > a:focus {
   color: #ffffff;
-  background-color: #0052ff;
+  background-color: #4B92CE;
 }
 
 /*
@@ -25,39 +25,40 @@
 */
 
 header {
-    background: #00bea6;
+    background: #A3DEEF;
 }
 
 section {
    /* background: #e3e4f7; */
-   background: #00bea6;
+   background: #A3DEEF;
 }
 
 section.success {
     color: #fff;
     /* background: #49e0b1; */
-    background: #0f8c8a;
+    background: #4FB3DA;
 }
 
 header hr.star-primary {
     border-color: #fff;
+    background-color: #1455AB;
 }
 
 header hr.star-primary:after {
     color: #fff;
-    background-color: #00bea6;
+    background-color: #1455AB;
 }
 
 hr.star-primary:after {
-    color: #2c3e50;
-    background-color: #00bea6;
+    color: #fff;
+    background-color: #1455AB;
 }
 
 hr.star-light:after {
     color: #fff;
-    background-color: #0f8c8a;
+    background-color: #1455AB;
 }
 
 footer.footer-below {
-    background-color: #0460ff;
+    background-color: #1455AB;
 }
