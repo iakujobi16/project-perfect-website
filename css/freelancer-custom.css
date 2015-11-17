@@ -15,12 +15,12 @@
 }
 
 #portfolioModal1 .modal-content .modal-body iframe {
-            display:block;
-            position: relative;
-            top: 0px;
-            left: 50%;
-            margin-left: -512px;
-            height: 500px;
+    display:block;
+    position: relative;
+    top: 0px;
+    left: 50%;
+    margin-left: -512px;
+    height: 500px;
 }
 
 
@@ -73,5 +73,6 @@ footer {
 }
 
 footer .footer-below {
-    background-color: #4B92CE;
+/*    background-color: #4B92CE;*/
+    background-color: #1455AB;
 }
